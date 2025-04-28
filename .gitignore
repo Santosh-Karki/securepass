@@ -15,7 +15,6 @@
 # Temporary files
 *.log
 *.temp
-*.swp
 *.tmp
 *.bak
 *.tsbuildinfo
